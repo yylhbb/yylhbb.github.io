@@ -1,1 +1,28 @@
-theme: jekyll-theme-slate
+title: yylhbb's blog
+description: yylhbb's blog
+author: yylhbb
+logo: /yylhbb.github.io/static/img/avatar.png
+github: https://github.com/yylhbb
+about: 宅 
+
+baseurl: "https://www.yylhbb.top"
+url: "https://www.cckes.com"
+
+allowsearch: true
+
+disqus_shortname: aboutashu
+google_analytics: UA-72862926-1
+
+share:
+  twitter_username: \#
+  fb_appid: 000000000000
+
+
+enableTags: true
+tagarray: []
+
+paginate: 20
+per_page: 20
+paginate_path: "/page:num/"
+markdown: kramdown
+plugins: [jekyll-paginate, jekyll-gist]
